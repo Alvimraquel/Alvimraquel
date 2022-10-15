@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Alvimraquel 😁
+## Olá, eu sou a Raquel Alvim! 😁
 
  <div>
    <a href="https://github.com/Alvimraquel">
@@ -14,7 +14,8 @@
  
  <br>
  
-  ### Pra saber mais me segue nas redes abaixo!
+  ##
+  Pra saber mais me siga nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/alvimraquel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank></a>
